@@ -87,3 +87,12 @@ button {
 		border: 2px solid rgb(0, 0, 0);
 	}
 }
+
+.home_container {
+	margin-top: 19%;
+}
+
+.home_container button a {
+	text-decoration: none;
+	color: #383838;
+}
